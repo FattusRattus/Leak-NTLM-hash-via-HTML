@@ -1,5 +1,6 @@
 # Leak-NTLM-hash-via-HTML
 List of HTML tags for leak NTLM hash for Internet Explorer and Edge.
+Based on https://github.com/cure53/HTTPLeaks.
 
 ## Body tags
 
