@@ -36,7 +36,7 @@ Based on https://github.com/cure53/HTTPLeaks.
 <isindex src="file://change_my_IP/isindex-src" type="image"> <--only for IE-->
 ```
 
-### Multi
+### Multimedia
 ```html
 <bgsound src="file://change_my_IP/bgsound-src"></bgsound> <--only for IE-->
 <video src="file://change_my_IP/video-src"> <--only for Edge-->
