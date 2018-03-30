@@ -124,11 +124,10 @@ Based on https://github.com/cure53/HTTPLeaks.
 <svg> 
     <style>
         circle {
-     edge +      fill: url(file://change_my_IP/svg-css-fill#foo);
-     edge +      mask: url(file://change_my_IP/svg-css-mask#foo);
-     -       -webkit-mask: url(file://change_my_IP/svg-css--webkit-mask#foo);
-     edge + filter: url(file://change_my_IP/svg-css-filter#foo);
-     edge + clip-path: url(file://change_my_IP/svg-css-clip-path#foo);
+           fill: url(file://change_my_IP/svg-css-fill#foo);
+           mask: url(file://change_my_IP/svg-css-mask#foo);
+           filter: url(file://change_my_IP/svg-css-filter#foo);
+           clip-path: url(file://change_my_IP/svg-css-clip-path#foo);
         }
     </style>
     <circle r="40"></circle>
