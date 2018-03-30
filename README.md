@@ -28,7 +28,7 @@ Based on https://github.com/cure53/HTTPLeaks.
 ### Image
 ```html
 <image src="file://change_my_IP/image-src">
-```]
+```
 
 ### Form
 ```html
